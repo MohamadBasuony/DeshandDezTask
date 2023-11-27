@@ -1,0 +1,13 @@
+//
+//  Production.xcconfig
+//  SellerApp
+//
+//  Created by Mohamad Basuony on 10/11/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SIMPLE_SLASH=/
+
+BASE_URL = 
